@@ -53,5 +53,5 @@ Constats : JS de 172 Ko sans compression ; API chargée sur toutes les pages (`/
 
 - Bonnes pratiques retenues : fusion des doublons (images, requêtes/lazy loading). Hors backlog : serveurs éco-responsables, non actionnable sur le repo (à garder comme recommandation de roadmap).
 - Mesure EcoIndex calculée avec la formule officielle (cnumr/GreenIT-Analysis) sur les valeurs Lighthouse ; capture de l'extension EcoIndex à ajouter pour comparaison.
-- Le polling (12 requêtes/min) est une valeur théorique (intervalle de 5 s dans le code), à vérifier sur 1 minute dans l'onglet Réseau.
+- Polling mesuré le 2 nov. 2026 : 12 requêtes `/api/promotions` en 62 s sur l'accueil (build de production, Brave headless, journal du backend), soit 1 toutes les 5 s.
 - Le niveau de détail attendu doit permettre une priorisation exploitable.

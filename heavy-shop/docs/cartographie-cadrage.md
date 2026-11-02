@@ -59,7 +59,7 @@
 | Poids transféré (Ko) | Impact réseau et terminal | 266 à 286 Ko sans compression |
 | Poids en seconde visite | Mesure du cache | non mesuré (cache désactivé : même poids qu'en première visite) |
 | Requêtes `/api/search` par session de filtrage | Mesure du debounce | 1 par caractère saisi |
-| Requêtes périodiques à l'arrêt (par minute) | Mesure du polling | 12 (théorique, à vérifier) |
+| Requêtes périodiques à l'arrêt (par minute) | Mesure du polling | 12 (mesuré sur 62 s) |
 
 Le score EcoIndex est déjà A : il sert de baseline mais ne suffit pas à piloter le plan. Les gains porteront surtout sur les autres indicateurs.
 
