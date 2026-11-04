@@ -65,7 +65,7 @@ Le score EcoIndex est déjà A : il sert de baseline mais ne suffit pas à pilot
 
 ## 6. Sources
 
-- Brief #1 : [acv-flash-leboncoin.xlsx](acv-flash-leboncoin.xlsx), dont les phases Transport à Fin de vie sont à valider.
+- Brief #1 : slides [Limpact-environnemental-de-Leboncoin.pdf](Limpact-environnemental-de-Leboncoin.pdf) et ACV [acv-flash-leboncoin.xlsx](acv-flash-leboncoin.xlsx) (phases Transport à Fin de vie complétées lors du Brief #2).
 - Bonnes pratiques prioritaires : fichier `mes-10-bp-prioritaires` à la racine du repo.
 - Mesures : [baseline-ecoindex-heavy-shop.xlsx](../baseline-ecoindex-heavy-shop.xlsx).
 - Backlog : [backlog.md](../backlog.md).
