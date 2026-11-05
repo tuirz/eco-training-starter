@@ -7,7 +7,7 @@ Le projet représente une boutique catalogue avec listes, recherche, détail pro
 Service réel analysé (Brief #1) : Leboncoin. UF : acheter un objet d'occasion en ligne, soit rechercher, filtrer et consulter 3 annonces sur mobile en une session de 5 min.
 Correspondance avec le repo miroir : annonce = produit ; recherche, filtres, listing et fiche = écrans heavy-shop. Panier et checkout hors périmètre.
 
-Baseline production (build, Brave mobile, médiane de 3 mesures, 2 nov. 2026), détail dans baseline-ecoindex-heavy-shop.xlsx :
+Baseline production (build, Brave mobile, médiane de 3 mesures, 2 nov. 2026), détail dans [docs/baseline-ecoindex-heavy-shop.xlsx](docs/baseline-ecoindex-heavy-shop.xlsx) :
 
 | Page | Requêtes | Poids | DOM | EcoIndex |
 |---|---|---|---|---|
